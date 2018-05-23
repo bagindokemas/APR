@@ -1,5 +1,5 @@
 # APR
-This is a repository for the code and the dataset of our work: Approximate Pattern-Based Reasoning.
+This is a repository for the code and the dataset of our work: Approximate Pattern-Based Reasoning (APR)*. 
 
 Most existing knowledge graph refinement approaches either focus on adding missing knowledge to the graph, i.e., completion, or on 
 identifying wrong information in the graph, i.e. error detection. 
@@ -9,3 +9,5 @@ In this work, we propose a novel approach to develop an approximate reasoning to
 several knowledge graph completion algorithms, including those claimed to be correct by the triple classification service. 
 
 Our somehow surprising results suggest that the above schema-less assumption might need to be reconsidered. 
+
+* APR now is being under review as demo paper on the CIKM 2018 (http://www.cikm2018.units.it/).
