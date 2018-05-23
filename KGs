@@ -1,0 +1,5 @@
+We used three knowledge graphs : NELL, DBPedia and IBM-HM.
+
+NELL-995 which is a dataset from carnegie mellon university containing 142,065 triples, 
+(ii) DBPedia version 2016-04 which is dataset from DBPEDIA containing 17,678,218 triples
+and IBM-KG which is dataset containing 9228 triples.
